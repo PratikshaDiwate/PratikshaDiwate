@@ -1,17 +1,10 @@
-#👋 About Me
-#🚀 Actively sharpening my skills in Python, AWS Cloud, and Web Development.
-#💡Passionate about building simple ideas into meaningful projects.
-#🤝 Looking to collaborate on: Web development projects that involve creativity, clean UI, and smart backend logic.
-#📘 Currently learning:
-#☁️ AWS Cloud — exploring architecture, services, and real-world deployments.
-#❓ Ask me about:
-#🌐 Web development: HTML, CSS, JavaScript
-#🐍 Python basics & automation
-#🗄️ Databases & SQL: CRUD, joins, constraints
-#☁️ Cloud fundamentals
-#💡 Project building ideas & beginner-friendly architectures
-#🎮 Fun Fact:
-When I'm not coding, I'm probably organizing tasks, discovering new tech, or vibing to good music!
+# 💫 About Me:
+🚀 Actively enhancing my skills in **Python**, **AWS Cloud**, and **Web Development**.<br>
+🤝 <b>I'm looking to collaborate on:</b> Web development projects that involve clean UI, functionality, and creativity.<br>
+📘 <b>I'm currently learning:</b> AWS Cloud – exploring services, architecture, and deployment workflows.<br>
+❓ <b>Ask me about:</b> Web development (HTML, CSS, JS), Python basics, Databases & SQL (CRUD, joins, constraints), Cloud fundamentals, and Project building ideas.<br>
+🎮 <b>Fun Fact:</b> When I'm not coding, I'm organizing tasks, exploring new tech, or vibing to good music!
+
 
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pratiksha-diwate-)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratikshadiwate027@gmail.com) 
