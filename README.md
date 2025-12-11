@@ -1,16 +1,16 @@
-👋 About Me
-🚀 Actively sharpening my skills in Python, AWS Cloud, and Web Development.
-💡 Passionate about building simple ideas into meaningful projects.
-🤝 Looking to collaborate on: Web development projects that involve creativity, clean UI, and smart backend logic.
-📘 Currently learning:
-☁️ AWS Cloud — exploring architecture, services, and real-world deployments.
-❓ Ask me about:
-🌐 Web development: HTML, CSS, JavaScript
-🐍 Python basics & automation
-🗄️ Databases & SQL: CRUD, joins, constraints
-☁️ Cloud fundamentals
-💡 Project building ideas & beginner-friendly architectures
-🎮 Fun Fact:
+#👋 About Me
+#🚀 Actively sharpening my skills in Python, AWS Cloud, and Web Development.
+#💡Passionate about building simple ideas into meaningful projects.
+#🤝 Looking to collaborate on: Web development projects that involve creativity, clean UI, and smart backend logic.
+#📘 Currently learning:
+#☁️ AWS Cloud — exploring architecture, services, and real-world deployments.
+#❓ Ask me about:
+#🌐 Web development: HTML, CSS, JavaScript
+#🐍 Python basics & automation
+#🗄️ Databases & SQL: CRUD, joins, constraints
+#☁️ Cloud fundamentals
+#💡 Project building ideas & beginner-friendly architectures
+#🎮 Fun Fact:
 When I'm not coding, I'm probably organizing tasks, discovering new tech, or vibing to good music!
 
 🌐 Socials:
