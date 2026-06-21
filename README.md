@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Actively enhancing my skills in **Python**, **AWS Cloud**, and **Web Development**.<br>
+🚀 Actively enhancing my skills in **JAVA**, **Python**, **AWS Cloud**, and **Web Development**.<br>
 🤝 <b>I'm looking to collaborate on:</b> Web development projects that involve clean UI, functionality, and creativity.<br>
 📘 <b>I'm currently learning:</b> AWS Cloud – exploring services, architecture, and deployment workflows.<br>
 ❓ <b>Ask me about:</b> Web development (HTML, CSS, JS), Python basics, Databases & SQL (CRUD, joins, constraints), Cloud fundamentals, and Project building ideas.<br>
